@@ -4,7 +4,7 @@
 
 # Sentex
 
-### LUI/UX Designer · Figma / VScode · Discord.js · Vibecoding
+### UI/UX Designer · Figma / VScode · Discord.js · Vibecoding
 
 <a href="https://github.com/Maxking1337">
   <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white">
